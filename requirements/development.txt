@@ -1,0 +1,11 @@
+-r common.txt
+django-extensions
+ipython
+flake8
+moscripts
+pdbpp
+pytest-django
+mixer
+django-debug-toolbar
+pytest-cov
+pytest-pythonpath

@@ -1,0 +1,7 @@
+-r common.txt
+flake8
+safety
+pytest-django
+mixer
+pytest-cov
+pytest-pythonpath

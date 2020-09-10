@@ -1,0 +1,17 @@
+[run]
+include=
+  git4nstats/*
+omit =
+  $VIRTUAL_ENV/*
+  *apps.py,
+  *migrations/*,
+  *settings*,
+  *tests/*,
+  *urls.py,
+  *wsgi/*,
+  *wsgi.py,
+  *manage.py
+  *__init__.py
+
+[report]
+show_missing = True
